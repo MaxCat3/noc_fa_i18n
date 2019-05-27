@@ -8,11 +8,11 @@
     <string name="i18n_description_by">от</string>
     <string name="i18n_none_u">Пусто</string>
     <string name="i18n_none">Пусто</string>
-    <string name="i18n_rating_general">Общ.</string>
-    <string name="i18n_rating_mature">Огр.</string>
-    <string name="i18n_rating_adult">Взр.</string>
+    <string name="i18n_rating_general">Б.</string>
+    <string name="i18n_rating_mature">О.</string>
+    <string name="i18n_rating_adult">В.</string>
     <string name="i18n_search">Поиск</string>
-    <string name="i18n_submissions">Submissions</string>
+    <string name="i18n_submissions">Работы</string>
     <string name="i18n_notifications">Уведомления</string>
     <string name="i18n_notes">Записки</string>
     <string name="i18n_settings">Настройки</string>
@@ -28,10 +28,10 @@
     <string name="i18n_comment_1">Комментировать…</string>
     <string name="i18n_reply">Reply</string>
     <string name="i18n_filter">Фильтр</string>
-    <string name="i18n_type">Type</string>
-    <string name="i18n_rating_general_full">General</string>
-    <string name="i18n_rating_mature_full">Mature</string>
-    <string name="i18n_rating_adult_full">Adult</string>
+    <string name="i18n_type">Тип</string>
+    <string name="i18n_rating_general_full">Безопасное</string>
+    <string name="i18n_rating_mature_full">Ограниченное</string>
+    <string name="i18n_rating_adult_full">Для взрослых</string>
     <string name="i18n_view">View</string>
     <string name="i18n_column_count">Column count</string>
     <string name="i18n_criteria">Критерии</string>
@@ -51,19 +51,19 @@
     <string name="i18n_browser_open">Открыть в браузере</string>
     <string name="i18n_compose">Compose</string>
     <string name="i18n_download">Скачать</string>
-    <string name="i18n_see">See</string>
+    <string name="i18n_see">Посмотреть</string>
     <string name="i18n_note_compose">Note Compose</string>
     <string name="i18n_watchers">Подписчики</string>
     <string name="i18n_popular">Popular</string>
 
     <string name="i18n_about_dialog_more_info">Подробнее</string>
-    <string name="i18n_about_dialog_contact">Связаться</string>
+    <string name="i18n_about_dialog_contact">Связаться с нами</string>
 
     <string name="i18n_content_not_found">Материал не загружен…</string>
 
-    <string name="i18n_drawer_nsfw">NSFW</string>
-    <string name="i18n_drawer_nsfw_on">Вкл</string>
-    <string name="i18n_drawer_nsfw_off">Выкл</string>
+    <string name="i18n_drawer_nsfw">ЦЕНЗУРА</string>
+    <string name="i18n_drawer_nsfw_on">Выкл</string>
+    <string name="i18n_drawer_nsfw_off">Вкл</string>
 
     <string name="i18n_drawer_navigation_my_page">Моя страница</string>
 
@@ -75,12 +75,12 @@
     <string name="i18n_drawer_account_title">Аккаунт</string>
     <string name="i18n_drawer_account_logout">Выйти</string>
 
-    <string name="i18n_title_login">Fur Affinity Login</string>
+    <string name="i18n_title_login">Вход в Fur Affinity</string>
 
     <string name="i18n_login_login">Имя/логин</string>
     <string name="i18n_login_password">Пароль</string>
     <string name="i18n_login_captcha_description">Капча</string>
-    <string name="i18n_login_verification">Verification</string>
+    <string name="i18n_login_verification">Проверка</string>
     <string name="i18n_login_log_in">Войти</string>
     <string name="i18n_login_auth_error">Ошибка авторизации</string>
     <string name="i18n_login_sign_in">Зарегистрироваться</string>
@@ -89,28 +89,28 @@
     <string name="i18n_main_settings_image_quality">Качество изображения</string>
     <string name="i18n_main_settings_auto_download">Авто-скачивание при добавлении в понравившееся</string>
     <string name="i18n_main_settings_download_title">Путь закачки</string>
-    <string name="i18n_main_settings_download_mode">Download mode</string>
+    <string name="i18n_main_settings_download_mode">Режим скачивания</string>
 
-    <string name="i18n_main_settings_download_mode_first">rating/author (download_dir/furaffinity/general/kojit/file)</string>
-    <string name="i18n_main_settings_download_mode_second">author/rating (download_dir/furaffinity/kojit/general/file)</string>
-    <string name="i18n_main_settings_download_mode_third">author (download_dir/furaffinity/kojit/file)</string>
-    <string name="i18n_main_settings_download_mode_fourth">rating ( download_dir/furaffinity/general/file)</string>
-    <string name="i18n_main_settings_download_mode_fifth">single (download_dir/furaffinity/file)</string>
+    <string name="i18n_main_settings_download_mode_first">рейтинг/автор (download_dir/furaffinity/general/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_second">автор/рейтинг (download_dir/furaffinity/kojit/general/file)</string>
+    <string name="i18n_main_settings_download_mode_third">автор (download_dir/furaffinity/kojit/file)</string>
+    <string name="i18n_main_settings_download_mode_fourth">рейтинг ( download_dir/furaffinity/general/file)</string>
+    <string name="i18n_main_settings_download_mode_fifth">без распределения (download_dir/furaffinity/file)</string>
 
     <string name="i18n_main_settings_download_file_mode">Имя файла</string>
     <string name="i18n_main_settings_download_file_mode_first">Оригинал</string>
     <string name="i18n_main_settings_download_file_mode_second">Slug</string>
 
-    <string name="i18n_main_settings_auto_close_menu_on_content_page">Menu auto closing when content faved</string>
+    <string name="i18n_main_settings_auto_close_menu_on_content_page">Автоматическое закрытие меню, когда понравилось</string>
     <string name="i18n_main_settings_enable_animation">Включить анимацию</string>
 
     <string name="i18n_enabled_title">Включено</string>
-    <string name="i18n_timeout_title">Timeout</string>
+    <string name="i18n_timeout_title">Через каждые</string>
     <string name="i18n_option_title">Опции</string>
     <string name="i18n_sound_title">Звук</string>
     <string name="i18n_vibration_title">Вибрация</string>
     <string name="i18n_content_title">Материал</string>
-    <string name="i18n_journals_title">Journals</string>
+    <string name="i18n_journals_title">Журналы</string>
     <string name="i18n_watched_title">Подписаны</string>
 
     <string name="i18n_message_center_comments_item_title_pre">has replied to</string>
@@ -141,7 +141,7 @@
     <string name="i18n_submissions_description_remove">Удалить</string>
 
     <string name="i18n_view_rating">Рейтинг</string>
-    <string name="i18n_view_posted">Posted</string>
+    <string name="i18n_view_posted">Выложено</string>
     <string name="i18n_view_category">Категория</string>
     <string name="i18n_view_period">Period</string>
     <string name="i18n_view_per_page">Per Page</string>
@@ -170,7 +170,7 @@
         <item>Очень высокое</item>
         <item>Высокое</item>
         <item>Среднее</item>
-        <item>Высокое</item>
+        <item>Низкое</item>
     </string-array>
 
     <string-array name="i18n_settings_pref_themes">
@@ -210,8 +210,8 @@
         <item>Профиль</item>
         <item>Галлерея</item>
         <item>Понравившееся</item>
-        <item>Journals</item>
-        <item>Комментарии</item>
+        <item>Журналы</item>
+        <item>Подписки</item>
         <item>Комментарии</item>
     </string-array>
 
@@ -223,7 +223,7 @@
     </string-array>
 
     <string-array name="i18n_message_center_tabs">
-        <item>Journals</item>
+        <item>Журналы</item>
         <item>Комментарий профиля</item>
         <item>Комментарии</item>
         <item>Понравилось</item>
@@ -297,7 +297,7 @@
 
     <string name="i18n_privacy_policy">Политика конфиденциальности</string>
 
-    <string name="i18n_share_link_using">Share link using</string>
+    <string name="i18n_share_link_using">Поделиться в</string>
 
     <string name="i18n_background_service">Background service</string>
     <string name="i18n_background_service_group">Running background service</string>
@@ -312,8 +312,8 @@
     <string name="i18n_notification_workers_view_favorite_task_fall">Favorite task: fall</string>
     <string name="i18n_notification_workers_view_task_progress">View task: progress</string>
     <string name="i18n_notification_workers_view_task_fall">View task: fall</string>
-    <string name="i18n_notification_workers_view_download_progress">Download task: progress</string>
-    <string name="i18n_notification_workers_view_download_fall">Download task: fall</string>
+    <string name="i18n_notification_workers_view_download_progress">Скачивание: прогресс</string>
+    <string name="i18n_notification_workers_view_download_fall">Скачивание: ошибка</string>
     <string name="i18n_notification_workers_submission_remove_progress">Remove task: progress</string>
     <string name="i18n_notification_workers_submission_remove_fall">Remove task: fall</string>
 
